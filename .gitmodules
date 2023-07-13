@@ -1,0 +1,9 @@
+[submodule "csmk_ll"]
+	path = csmk_ll
+	url = git@github.com:kowalski2019/csmk_ll.git
+[submodule "csmk_dll"]
+	path = csmk_dll
+	url = git@github.com:kowalski2019/csmk_dll.git
+[submodule "csmk_dlist"]
+	path = csmk_dlist
+	url = git@github.com:kowalski2019/csmk_dlist.git
